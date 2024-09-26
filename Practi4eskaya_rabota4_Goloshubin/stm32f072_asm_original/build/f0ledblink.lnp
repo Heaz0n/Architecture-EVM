@@ -1,0 +1,9 @@
+--cpu Cortex-M0
+".\build\startup_stm32f0xx.o"
+".\build\system.o"
+".\build\gpb.o"
+".\build\main.o"
+--strict --scatter ".\build\f0ledblink.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\build\f0ledblink.map" -o .\build\f0ledblink.axf

@@ -1,0 +1,29 @@
+Dependencies for Project 'f0ledblink', Target 'Target 1': (DO NOT MODIFY !)
+F (.\source\main.c)(0x667AD6CE)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I .\source -I .\Libraries\CMSIS\Device\ST\STM32F0xx\Include -I .\Libraries\CMSIS\Device\ST\STM32F0xx -I .\Libraries\STM32F0xx_StdPeriph_Driver\inc -I .\Libraries\STM32F0xx_StdPeriph_Driver\src -I .\Libraries\CMSIS\Include -I .\source\nrf24l01-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F072xB -DUSE_STDPERIPH_DRIVER-o .\build\main.o --omf_browse .\build\main.crf --depend .\build\main.d)
+I (source\main.h)(0x667AD0C0)
+I (.\Libraries\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x52D7AC8C)
+I (.\Libraries\CMSIS\Include\core_cm0.h)(0x52D7AC56)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\Libraries\CMSIS\Include\core_cmInstr.h)(0x52D7AC56)
+I (.\Libraries\CMSIS\Include\core_cmFunc.h)(0x52D7AC56)
+I (.\Libraries\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x52D7AC8C)
+I (.\source\stm32f0xx_conf.h)(0x52ED50C8)
+I (.\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h)(0x52D7AC6E)
+I (.\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_gpio.h)(0x52D7AC6E)
+I (.\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rcc.h)(0x52D7AC6E)
+I (.\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_spi.h)(0x52D7AC6E)
+I (.\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_tim.h)(0x52D7AC6E)
+F (.\source\startup_stm32f0xx.s)(0x53B9B62E)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 524" --pd "STM32F072xB SETA 1"--list .\build\startup_stm32f0xx.lst --xref -o .\build\startup_stm32f0xx.o --depend .\build\startup_stm32f0xx.d)
+F (.\source\system.c)(0x60105A10)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I .\source -I .\Libraries\CMSIS\Device\ST\STM32F0xx\Include -I .\Libraries\CMSIS\Device\ST\STM32F0xx -I .\Libraries\STM32F0xx_StdPeriph_Driver\inc -I .\Libraries\STM32F0xx_StdPeriph_Driver\src -I .\Libraries\CMSIS\Include -I .\source\nrf24l01-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F072xB -DUSE_STDPERIPH_DRIVER-o .\build\system.o --omf_browse .\build\system.crf --depend .\build\system.d)
+I (.\Libraries\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x52D7AC8C)
+I (.\Libraries\CMSIS\Include\core_cm0.h)(0x52D7AC56)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\Libraries\CMSIS\Include\core_cmInstr.h)(0x52D7AC56)
+I (.\Libraries\CMSIS\Include\core_cmFunc.h)(0x52D7AC56)
+I (.\Libraries\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x52D7AC8C)
+I (.\source\stm32f0xx_conf.h)(0x52ED50C8)
+I (.\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h)(0x52D7AC6E)
+I (.\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_gpio.h)(0x52D7AC6E)
+I (.\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rcc.h)(0x52D7AC6E)
+I (.\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_spi.h)(0x52D7AC6E)
+I (.\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_tim.h)(0x52D7AC6E)
